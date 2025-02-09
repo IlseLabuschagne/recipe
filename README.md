@@ -1,3 +1,5 @@
+This line is added locally in an attempt to try to get a merge to occur when changes are made to different lines in a file.  
+
 ### This is a LOCAL change :)
 
 # recipe
