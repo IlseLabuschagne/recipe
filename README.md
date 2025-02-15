@@ -9,3 +9,5 @@ last line changed locally
 
 ### This is a REMOTE change :O  
 This line is added remotely in an attempt to try to get a merge to occur when changes are made to different lines in a file.
+
+### This part is for some non-assignment practice.
