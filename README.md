@@ -6,4 +6,6 @@ This repository is about tasty tacos and where to get them.
 last line changed locally
 
 ### contribute 
-This line is added remotely in an attempt to try to get a merge to occur when changes are made to different lines in a file.
+* Find taco restaurants with tasty tacos.
+* Let people know by contributing what you know here.
+* Spread love and happiness using tacos.
